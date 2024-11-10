@@ -64,5 +64,5 @@ Contributing
 Contributions are welcome! Please open an issue or submit a pull request to improve this project.
 
 Contact
-For questions or feedback, contact your-email@example.com.
+For questions or feedback, contact sdatla394@gmail.com
 
